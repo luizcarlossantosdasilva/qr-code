@@ -1,0 +1,39 @@
+body {
+    background-color:  hsl(212, 45%, 89%);
+}
+.card{
+    height : 50vh;
+    width: 40vw; 
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 16vw;
+    position: relative;
+    left: 42vw;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 25px;
+    top: 25vh;
+
+   background-color: white;
+
+} 
+.qr-code{ 
+    height: 30vh;
+    width: 15vw;
+    position: relative;
+    padding: 10px;
+    border: 0px solid white;
+    padding: 10px;
+    border-radius: 25px;
+
+    background-color: white;
+}
+h2{
+    text-align: center;  
+}
+p{
+
+    text-align: center;  
+
+}
